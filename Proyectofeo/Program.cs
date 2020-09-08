@@ -10,7 +10,7 @@ namespace Proyectofeo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Raquel!")
+            Console.WriteLine("Hola Raquel!");
         }
     }
 }
